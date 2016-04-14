@@ -2,14 +2,14 @@
 Example command:
 
     python official_documentation/arguments.py\
-        string\                            # string
-        123\                               # int
-        1.23\                              # float
-        yes\                               # bool
-        official_documentation/\           # path
-        official_documentation/test_file\  # file
-        2                                  # choice (1 or 2)
-        5                                  # int in range (0 to 10)
+        string\                                 # string
+        123\                                    # int
+        1.23\                                   # float
+        yes\                                    # bool
+        official_documentation/\                # path
+        official_documentation/misc/test_file\  # file
+        2                                       # choice (1 or 2)
+        5                                       # int in range (0 to 10)
 
 Custom arguments:
 
